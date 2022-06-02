@@ -14,5 +14,6 @@ There is a clear trend in the data that as you move away from rural settings, th
 the average fare per trip is signficantly reduced.  It would be interesting to study how much of this decrease is determined by the length of the trip or by the 
 supply of drivers available for each setting.
 
+xxx
 
 ![image-name](PyBer_fare_summary.png)
